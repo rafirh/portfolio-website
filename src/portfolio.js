@@ -25,8 +25,7 @@ const greeting = {
   subTitle: emoji(
     "I'm an experienced Backend Engineer 🚀 with expertise in JavaScript, Node.js, PHP, Laravel, and Go. With a strong passion for delivering high-quality software solutions, I constantly explore new libraries and frameworks to enhance my development skills."
   ),
-  resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+  resumeLink: "https://docs.google.com/document/d/1xnToaIf2tq7Sd9GGl8hfVzoYpHeLXIaPXnWFVr9082o/edit?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
