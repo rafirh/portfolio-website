@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Rafi Rahman",
+  username: "Rafi",
   title: "Hi all, I'm Rafi",
   subTitle: emoji(
     "I'm an experienced Backend Engineer 🚀 with expertise in JavaScript, Node.js, PHP, Laravel, and Go. With a strong passion for delivering high-quality software solutions, I constantly explore new libraries and frameworks to enhance my development skills."
@@ -196,7 +196,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on

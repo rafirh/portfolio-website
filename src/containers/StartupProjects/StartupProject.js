@@ -18,9 +18,9 @@ export default function StartupProject() {
     return null;
   }
   return (
-    <Fade bottom duration={1000} distance="20px">
-      <div className="main" id="projects">
-        <div>
+    <div className="main" id="projects">
+      <div>
+        <Fade bottom duration={1000} distance="20px">
           <h1 className="skills-heading">{bigProjects.title}</h1>
           <p
             className={
@@ -31,10 +31,12 @@ export default function StartupProject() {
           >
             {bigProjects.subtitle}
           </p>
+        </Fade>
 
-          <div className="projects-container">
-            {bigProjects.projects.map((project, i) => {
-              return (
+        <div className="projects-container">
+          {bigProjects.projects.map((project, i) => {
+            return (
+              <Fade bottom duration={1000} distance="20px">
                 <div
                   key={i}
                   className={
@@ -84,11 +86,11 @@ export default function StartupProject() {
                     ) : null}
                   </div>
                 </div>
-              );
-            })}
-          </div>
+              </Fade>
+            );
+          })}
         </div>
       </div>
-    </Fade>
+    </div>
   );
 }

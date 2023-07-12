@@ -1,15 +1,8 @@
-import React, {useState, createRef} from "react";
+import React, {createRef} from "react";
 import "./ExperienceCard.scss";
-import ColorThief from "colorthief";
 
 export default function ExperienceCard({cardInfo, isDark}) {
-  const [setColorArrays] = useState([]);
   const imgRef = createRef();
-
-  function getColorArrays() {
-    const colorThief = new ColorThief();
-    setColorArrays(colorThief.getColor(imgRef.current));
-  }
 
   const GetDescBullets = ({descBullets, isDark}) => {
     return descBullets
@@ -38,7 +31,6 @@ export default function ExperienceCard({cardInfo, isDark}) {
           className="experience-roundedimg"
           src={cardInfo.companylogo}
           alt={cardInfo.company}
-          onLoad={() => getColorArrays()}
         />
       </div>
       <div className="experience-text-details">
