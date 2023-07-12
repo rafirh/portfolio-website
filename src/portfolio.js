@@ -89,6 +89,14 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-laravel"
     },
     {
+      skillName: "git",
+      fontAwesomeClassname: "fab fa-git-alt"
+    },
+    {
+      skillName: "github",
+      fontAwesomeClassname: "fab fa-github"
+    },
+    {
       skillName: "linux",
       fontAwesomeClassname: "fab fa-linux"
     },
