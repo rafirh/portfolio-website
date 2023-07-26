@@ -188,6 +188,19 @@ const workExperiences = {
         "Writing reusable, testable, and efficient code.",
       ]
     },
+    {
+      role: "Freelancer Programmer",
+      company: "Personal Business",
+      companylogo: require("./assets/images/freelancer.jpeg"),
+      backgroundColor: "rgb(54, 173, 207)",
+      date: "Feb 2023 – Present",
+      desc: "Providing website development services and programming task execution.",
+      descBullets: [
+        "Building a website using PHP, Node.js, MySQL, and PostgreSQL.",
+        "Offering programming task execution services.",
+        "Communicating with clients to understand their needs and provide solutions.",
+      ]
+    },
   ]
 };
 
