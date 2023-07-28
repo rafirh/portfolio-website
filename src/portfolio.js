@@ -189,7 +189,7 @@ const workExperiences = {
       ]
     },
     {
-      role: "Freelancer Programmer",
+      role: "Freelance Programmer",
       company: "Personal Business",
       companylogo: require("./assets/images/freelancer.png"),
       backgroundColor: "rgb(54, 173, 207)",
