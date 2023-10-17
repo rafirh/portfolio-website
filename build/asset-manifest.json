@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.071fa43d.css",
-    "main.js": "/static/js/main.e031cba8.js",
+    "main.js": "/static/js/main.0f027fb2.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
-    "static/js/64.1692348f.chunk.js": "/static/js/64.1692348f.chunk.js",
+    "static/js/64.040550a6.chunk.js": "/static/js/64.040550a6.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
-    "static/js/769.bda0d7b7.chunk.js": "/static/js/769.bda0d7b7.chunk.js",
+    "static/js/769.5eb24dff.chunk.js": "/static/js/769.5eb24dff.chunk.js",
     "static/media/infinitech.png": "/static/media/infinitech.6181188afdcd2c47ee9f.png",
     "static/media/siswa.png": "/static/media/siswa.08dfffe1c790aa805077.png",
     "static/media/stasion.png": "/static/media/stasion.d76bf5457f8455457e57.png",
@@ -26,14 +26,14 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.071fa43d.css.map": "/static/css/main.071fa43d.css.map",
-    "main.e031cba8.js.map": "/static/js/main.e031cba8.js.map",
+    "main.0f027fb2.js.map": "/static/js/main.0f027fb2.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
-    "64.1692348f.chunk.js.map": "/static/js/64.1692348f.chunk.js.map",
+    "64.040550a6.chunk.js.map": "/static/js/64.040550a6.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
-    "769.bda0d7b7.chunk.js.map": "/static/js/769.bda0d7b7.chunk.js.map"
+    "769.5eb24dff.chunk.js.map": "/static/js/769.5eb24dff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.071fa43d.css",
-    "static/js/main.e031cba8.js"
+    "static/js/main.0f027fb2.js"
   ]
 }
